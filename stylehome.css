@@ -1,0 +1,34 @@
+.home,.footer{
+    min-height:10px;
+    min-width: 10%;
+    border: 3px;
+    border-radius: 10px;
+    background: rgb(40, 45, 124);
+    padding: 15px;
+    margin: 15px;
+    
+}
+.home ul{
+    display: flex;
+    justify-content: space-around;
+}
+.home li,footer{
+    min-width: 20%;
+    height:50px ;
+    background:rgb(251, 253, 253);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    
+}
+h1,h2{
+    letter-spacing: 3px;
+    text-align:center;
+    color: rgb(8, 8, 3);
+    text-shadow: -2px -2px 5px black;
+    text-transform: uppercase;
+}
+.cv{
+   
+}
+
